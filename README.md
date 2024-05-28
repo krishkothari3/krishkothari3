@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/krish-kothari-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishkothari" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/krish_kothari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krish_kothari__" height="30" width="40" /></a>
 <a href="https://codesandbox.com/21010101111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="21010101111" height="30" width="40" /></a>
 <a href="https://kaggle.com/krishkothari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishkothari" height="30" width="40" /></a>
 <a href="https://instagram.com/krish_kothari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish_kothari__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krish_kothari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krish_kothari__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
